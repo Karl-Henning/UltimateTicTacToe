@@ -6,5 +6,5 @@ Using C++ and SDL2.
 
 Authors:
 Karl Henning,
-Leander Fritsch und
+Leander Fritsch and
 Lucas Schlatermund
